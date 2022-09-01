@@ -2,7 +2,7 @@
 """
 Created on Wed Mar 31 09:24:27 2021
 
-@author: Pol (Михайлов Павел, 316 группа, задача 1, вариант 32)
+@author: Pol
 """
 
 import numpy as np
